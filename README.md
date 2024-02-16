@@ -1,4 +1,4 @@
-# Superstore Sales and Profit Analysis Project
+# Sales and Profit Analysis Project
 
 ## Problem Statement
 
